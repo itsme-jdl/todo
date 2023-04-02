@@ -12,7 +12,7 @@ Project consists of a simple todo list which can add/remove tasks.
 
 <h2>Website walk-through:</h2>
 
-<p align="center"> Main Page: 
+<p align="center"> Main Page (Add task): 
 <br/>
 <br/>
 <img src="https://github.com/itsme-jdl/todo/blob/main/todo_walkthrough/main.jpg" height="80%" width="80%" alt="Website Walkthrough"/>
